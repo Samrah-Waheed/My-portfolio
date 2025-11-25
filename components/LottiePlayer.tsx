@@ -1,6 +1,7 @@
 "use client";
+
 import React from "react";
-import Lottie from "lottie-react"; // installed package
+import Lottie from "lottie-react";
 import animationData from "@/public/your-animation.json";
 
 export default function LottiePlayer(props: any) {
